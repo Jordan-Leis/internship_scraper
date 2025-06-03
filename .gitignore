@@ -1,0 +1,22 @@
+# Byte‐compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# dotenv file with your real API keys
+.env
+
+# LaTeX artifacts (if any)
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+
+# Jobs data (if you consider it private)
+jobs.db
+jobs.json
+jobs_output.json
